@@ -5,7 +5,7 @@ Collection of sick landing pages
 
 ![](https://beemapp.s3-eu-west-1.amazonaws.com/eec0a9dc-5707-4661-acb3-6979adc4fd83.jpg)
 
-![](https://ifttt.com)
+[](https://ifttt.com)
 
 ---
 
