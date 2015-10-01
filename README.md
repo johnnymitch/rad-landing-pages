@@ -19,9 +19,9 @@ Collection of sick landing pages
 
 ---
 
-# [Automated Ads](https://automateads.com)
+# [Asana](https://asana.com/product)
 
-![](https://beemapp.s3-eu-west-1.amazonaws.com/28dd6321-8da3-4cb1-b667-80ca995ea7f9.jpg)
+![](https://beemapp.s3-eu-west-1.amazonaws.com/eb62a2ca-d54f-4645-b254-4d9eddc1dff4.jpg)
 
 ---
 
